@@ -1,0 +1,21 @@
+{
+  "name": "tdd-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1",
+    "mongoose": "^8.7.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "node-mocks-http": "^1.16.1",
+    "supertest": "^7.0.0"
+  }
+}
